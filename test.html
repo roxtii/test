@@ -5,7 +5,7 @@
             $(document).ready(function() {
                 
                 $("#loader").click(function(event){
-                    $.getJSON('data.json', function(jd) {
+                    $.getJSON('https://github.com/roxtii/test/blob/master/data.json', function(jd) {
                         $('#stage').html('<p> Name: ' + jd.name + '</p>');
                         $('#stage').append('<p>Age : ' + jd.age+ '</p>');
                         $('#stage').append('<p> Sex: ' + jd.sex+ '</p>');
