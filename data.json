@@ -1,0 +1,20 @@
+{
+    "ID":"private_966969e1-ff76-4024-ba5f-1441a94fbe59",
+    "LIST": [
+      {
+        "Owner":"Moovel",
+        "ImageURL":" https://blog.mercedes-benz-passion.com/wp-cb4ef-content/uploads/moovel-group-1200.jpg",
+        "ElementLink":"https://play.google.com/store/apps/details?id=com.daimler.moovel.android&hl=en"
+      },
+      {
+        "Owner":"Daimler",
+        "ImageURL":" https://www.horizont.net/news/media/9/Mercedes-Benz-startet-neue-Marke-89268-detailnp.jpeg",
+        "ElementLink":"https://www.mercedes-benz.de/"
+      },
+      {
+        "Owner":"Car2go",
+        "ImageURL":"https://upload.wikimedia.org/wikipedia/commons/3/30/Car2Go_logo.jpg",
+        "ElementLink":"https://www.car2go.com/"
+      }
+    ]
+}
